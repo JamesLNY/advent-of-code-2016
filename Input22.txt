@@ -514,7 +514,7 @@
 /dev/grid/node-x17-y3    85T   67T    18T   78%
 /dev/grid/node-x17-y4    88T   67T    21T   76%
 /dev/grid/node-x17-y5   509T  492T    17T   96%
-/dev/grid/node-x17-y6    89T    0T    89T    0%
+/dev/grid/node-x17-p6    89T    0T    89T    0%
 /dev/grid/node-x17-y7    92T   65T    27T   70%
 /dev/grid/node-x17-y8    94T   67T    27T   71%
 /dev/grid/node-x17-y9    92T   73T    19T   79%
