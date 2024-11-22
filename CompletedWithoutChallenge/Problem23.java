@@ -18,7 +18,7 @@ public class Problem23 {
     }
     int index = 0, tempNum;
     int[] nums = new int[4];
-    nums[0] = 7;
+    nums[0] = 12;
     ArrayList<String> instruction, temp;
     while (index < arr.size()) {
       instruction = arr.get(index);
